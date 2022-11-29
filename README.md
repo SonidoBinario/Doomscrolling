@@ -1,24 +1,16 @@
-# README
+# Grupo 3 / M8 
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Ruby on rails proyect
+Aprendizajes:
+# Creación de nuevo proyecto rails sin testing
+> rails new doomscrolling -T
 
-Things you may want to cover:
+# Creacion de controlador pages y dos vistas
+> rails generate controller pages home contact
 
-* Ruby version
+# Asignación de ruta raiz a pages home
 
-* System dependencies
+# Incluimos framework css a las vistas del proyecto
 
-* Configuration
 
-* Database creation
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
